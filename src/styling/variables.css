@@ -1,0 +1,21 @@
+:root {
+    /* Färger */
+    --primary-color: #D8BFD8;
+    --secondary-color: #A8E4A5;
+    --accent-color: #F29B76;
+    --neutral-color: #F2EFE9;
+
+    /* Typografi */
+    --font-family-heading: 'Montserrat', sans-serif;
+    --font-family-body: 'Roboto', sans-serif;
+
+    /* Spacing */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 32px;
+
+    /* Gränser */
+    --border-radius: 8px;
+    --box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}

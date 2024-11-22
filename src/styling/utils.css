@@ -1,0 +1,17 @@
+@import './variables.css';
+
+.text-center {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.margin-top-sm {
+    margin-top: var(--spacing-sm);
+}
+
+.padding-lg {
+    padding: var(--spacing-lg);
+}

@@ -1,0 +1,29 @@
+@import './variables.css';
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--spacing-md);
+}
+
+.grid {
+    display: grid;
+    gap: var(--spacing-md);
+}
+
+.flex {
+    display: flex;
+    gap: var(--spacing-sm);
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: var(--spacing-sm);
+    }
+}
