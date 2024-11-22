@@ -1,0 +1,17 @@
+@import '../variables.css';
+
+.main-navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--primary-color);
+}
+
+.main-navbar h2 {
+    color: var(--neutral-color);
+}
+
+ul{
+    list-style: none;
+}

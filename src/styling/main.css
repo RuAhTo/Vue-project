@@ -3,13 +3,18 @@
 @import './layout.css';
 @import './typography.css';
 @import './utils.css';
-@import './components.css';
+@import './components/components.css';
+@import './components/navbar.css';
 
 
 /* Globala standardstilar */
 body {
     margin: 0;
+    padding: 0;
     background-color: var(--neutral-color);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 
