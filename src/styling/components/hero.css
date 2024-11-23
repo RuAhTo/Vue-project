@@ -9,8 +9,14 @@
     justify-content: space-between;
 }
 
+.article-1{
+    padding-inline: 10rem;
+    line-height: 30px;
+    font-size: larger;
+}
+
 .article{
-    width: 100%;
+    width: 50vw;
     background-color: white;
 }
 
