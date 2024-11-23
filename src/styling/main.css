@@ -5,6 +5,7 @@
 @import './utils.css';
 @import './components/components.css';
 @import './components/navbar.css';
+@import './components/hero.css';
 
 
 /* Globala standardstilar */
@@ -16,5 +17,4 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
 

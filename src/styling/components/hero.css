@@ -1,0 +1,19 @@
+.hero {
+    background-image: url('/jakub-dziubak-XtUd5SiX464-unsplash.jpg');
+    background-size: cover; /* Gör att bilden täcker hela ytan */
+    background-position: -475px; /* Centrerar bilden */
+    background-repeat: no-repeat; /* Förhindrar att bilden upprepas */
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.article{
+    width: 100%;
+    background-color: white;
+}
+
+.window{
+    width: 100%;
+}
